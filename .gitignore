@@ -1,0 +1,23 @@
+# Golang
+/bin/
+/vendor/
+/*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
